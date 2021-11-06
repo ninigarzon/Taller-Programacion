@@ -1,0 +1,2 @@
+Frontend: https://github.com/ninigarzon/MercaYa
+Backend: https://github.com/ninigarzon/back-mercaYa
